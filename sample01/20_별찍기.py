@@ -11,4 +11,4 @@ for i in range(star):
         print("*", end="")
     print()
     if i == 4:
-        print("별이 다섯 개 ★★★★★!!")
+        print("별이 다섯 개 ★★!!!!!!")
