@@ -25,3 +25,4 @@ class ProductTv(PrototypeTv):
 
 lg_tv = ProductTv(False, 20, 20)
 lg_tv.set_channel(1500)
+
